@@ -7,6 +7,9 @@ The back-end database has been purposed towards e-commerce websites using Expres
 - [Overview](#Overview)
 - [The Challenge](#The-Challenge)
 - [Usage Information](#Usage-Information)
+- [Solution URL](#solution-url)
+- [Demo Walkthrough Video](#demo-walkthrough-video)
+- [Screenshots](#screenshots)
 - [Installation Process](#Installation-Process)
 - [Built With](#Built-With)
 - [What I Learned](#What-I-Learned)
@@ -50,26 +53,21 @@ THEN I am able to successfully create, update, and delete data in my database
 4. Generate a development database with test data, use the schema and seed commands.
 5. Use Postman to test http://localhost:3001 with the following route end points API GET, POST, PUT, and DELETE routes for categories, products, and tags, ensuring successful creation, updating, and deletion of data in the database.
 
-## Deployed Application Link:
-[Deployed Application Link:](https://github.com/sonam-git/SJ_E-Commerce_BackEnd)
 
-## GitHub Repository:
+## Solution URL:
 [GitHub Repository:](https://github.com/sonam-git/SJ_E-Commerce_BackEnd)
 
 ## Demo Walkthrough Video:
 
-### GET routes to return all categories, all products, and all tags being tested in Postman:
-[Demo Video Link:](https://drive.google.com/file/d/1MpSizOa71GpimyIjenDZwLYDhUlYxkRJ/view)
+### GET routes to return all categories, all products, and all tags being tested in Postman:[ => Click to Watch](https://drive.google.com/file/d/1MpSizOa71GpimyIjenDZwLYDhUlYxkRJ/view)
 
-### GET routes to return a single category, a single product, and a single tag being tested in Postman:
-[Demo Video Link:](https://drive.google.com/file/d/1YWHdhlhfwjORegcjbm-KKHQumup5NuOt/view)
+### GET routes to return a single category, a single product, and a single tag being tested in Postman:[ => Click to Watch](https://drive.google.com/file/d/1YWHdhlhfwjORegcjbm-KKHQumup5NuOt/view)
 
-### POST, PUT, and DELETE routes for tags, categories, and products being tested in Postman:
-[Demo Video Link:](https://drive.google.com/file/d/1SMcwih_EWh4a3_zyMFZuuFbc5QQT7W75/view)
+### POST, PUT, and DELETE routes for tags, categories, and products being tested in Postman:[ => Click to Watch](https://drive.google.com/file/d/1SMcwih_EWh4a3_zyMFZuuFbc5QQT7W75/view)
 
 
 ## Screenshots:
-### Figure 1.
+
 
 ## Installation Process
 1. Clone the Repository from GitHub (or) Download Zip Folder from Repository from GitHub.
