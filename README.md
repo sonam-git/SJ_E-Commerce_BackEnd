@@ -6,7 +6,7 @@ The back-end database has been purposed towards e-commerce websites using Expres
 ## Table of Contents:
 - [Overview](#Overview)
 - [The Challenge](#The-Challenge)
-- [Usage Information](#Usage-Information)
+- [Usage Information](#usage-instructions)
 - [Solution URL](#solution-url)
 - [Demo Walkthrough Video](#demo-walkthrough-video)
 - [Screenshots](#screenshots)
@@ -59,14 +59,19 @@ THEN I am able to successfully create, update, and delete data in my database
 
 ## Demo Walkthrough Video:
 
-### GET routes to return all categories, all products, and all tags being tested in Postman:[ => Click to Watch](https://drive.google.com/file/d/1MpSizOa71GpimyIjenDZwLYDhUlYxkRJ/view)
+### GET routes to return all categories, all products, and all tags being tested in Postman:
+[ => Click to Watch](https://drive.google.com/file/d/1MpSizOa71GpimyIjenDZwLYDhUlYxkRJ/view)
 
-### GET routes to return a single category, a single product, and a single tag being tested in Postman:[ => Click to Watch](https://drive.google.com/file/d/1YWHdhlhfwjORegcjbm-KKHQumup5NuOt/view)
+### GET routes to return a single category, a single product, and a single tag being tested in Postman:
+[ => Click to Watch](https://drive.google.com/file/d/1YWHdhlhfwjORegcjbm-KKHQumup5NuOt/view)
 
-### POST, PUT, and DELETE routes for tags, categories, and products being tested in Postman:[ => Click to Watch](https://drive.google.com/file/d/1SMcwih_EWh4a3_zyMFZuuFbc5QQT7W75/view)
+### POST, PUT, and DELETE routes for tags, categories, and products being tested in Postman:
+[ => Click to Watch](https://drive.google.com/file/d/1SMcwih_EWh4a3_zyMFZuuFbc5QQT7W75/view)
 
 
 ## Screenshots:
+
+![Screenshot 2023-05-08 at 2 29 38 PM](https://user-images.githubusercontent.com/89502092/236944575-0dadbb80-013c-4f78-9190-208d1914fa2c.png)
 
 
 ## Installation Process
